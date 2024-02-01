@@ -11,8 +11,5 @@ Please go under edit and edit this file as needed for your project
 ### Member 7 - IT21282386 - Akmeemana T.D	(IT21282386)
 ### Member 8 - IT21303548 - Gunasekara W.M.W.A.G.T.N.A (IT21303548)
 
-#### Brief Description of Project - 
 #### Technologies used - MERN
-
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
 
